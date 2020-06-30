@@ -16,21 +16,10 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +40,7 @@
     <option name="onto" value="17412b0d973668a873bed03113ca627c29f31e3a" />
   </component>
   <component name="ProjectId" id="1deP1sTSw5DQdpGJFYIVlI3HP7k" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -166,14 +155,19 @@
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="772" y="363" key="Git.Interactive.Rebase.Dialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499934797" />
-    <state x="1174" y="592" key="SettingsEditor" timestamp="1593500268931">
-      <screen x="0" y="0" width="2560" height="1359" />
+    <state x="1174" y="612" key="SettingsEditor" timestamp="1593559562144">
+      <screen x="0" y="23" width="2560" height="1351" />
     </state>
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
+    <state x="1174" y="612" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559562144" />
     <state x="872" y="412" key="Vcs.Push.Dialog.v2" timestamp="1593500085417">
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
+    <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state x="721" y="504" key="cloudConfig.PluginsDialog/0.23.2560.1351@0.23.2560.1351" timestamp="1593559586973" />
     <state x="1056" y="541" key="git4idea.rebase.GitRebaseDialog" timestamp="1593499932322">
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
