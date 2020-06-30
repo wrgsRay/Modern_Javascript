@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="17412b0d973668a873bed03113ca627c29f31e3a" />
+  </component>
+  <component name="ProjectId" id="1deP1sTSw5DQdpGJFYIVlI3HP7k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_6" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raymond\WebstormProjects\Modern_Javascript\Chapter_6" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Raymond\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="" />
+      <created>1592782373289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592782373289</updated>
+      <workItem from="1592782375341" duration="42000" />
+      <workItem from="1592782422855" duration="102000" />
+      <workItem from="1592782529836" duration="5591000" />
+      <workItem from="1593403131527" duration="13995000" />
+      <workItem from="1593498641713" duration="1626000" />
+    </task>
+    <task id="LOCAL-00001" summary="end of chapter 6">
+      <created>1592785660338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592785660338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="end of chapter 7">
+      <created>1593408477506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593408477506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="end of chapter 8">
+      <created>1593497193945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593497193945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1593497918911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593497918911</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="end of chapter 6" />
+    <MESSAGE value="end of chapter 7" />
+    <MESSAGE value="end of chapter 8" />
+    <MESSAGE value="test" />
+    <MESSAGE value="end of Chapter 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of Chapter 8" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="363" key="Git.Interactive.Rebase.Dialog" timestamp="1593499934797">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="772" y="363" key="Git.Interactive.Rebase.Dialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499934797" />
+    <state x="1174" y="592" key="SettingsEditor" timestamp="1593500268931">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
+    <state x="872" y="412" key="Vcs.Push.Dialog.v2" timestamp="1593500085417">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
+    <state x="1056" y="541" key="git4idea.rebase.GitRebaseDialog" timestamp="1593499932322">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="1056" y="541" key="git4idea.rebase.GitRebaseDialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499932322" />
+    <state x="1712" y="881" key="scopes" timestamp="1592784637752">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="1712" y="881" key="scopes/0.0.2560.1359@0.0.2560.1359" timestamp="1592784637752" />
+    <state x="943" y="304" width="672" height="678" key="search.everywhere.popup" timestamp="1593497873949">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="943" y="304" width="672" height="678" key="search.everywhere.popup/0.0.2560.1359@0.0.2560.1359" timestamp="1593497873949" />
+  </component>
+</project>
