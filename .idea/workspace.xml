@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8" />
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8">
+      <change afterPath="$PROJECT_DIR$/Chapter_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +71,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -83,6 +94,7 @@
       <workItem from="1592782529836" duration="5591000" />
       <workItem from="1593403131527" duration="13995000" />
       <workItem from="1593498641713" duration="1626000" />
+      <workItem from="1593559601020" duration="5248000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -112,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1593497918911</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1593559641866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593559641866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1593559795012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593559795012</updated>
+    </task>
+    <task id="LOCAL-00007" summary="end of Chapter 8">
+      <created>1593559837322</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593559837322</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,19 +184,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="end of Chapter 8" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1672" y="897" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593561107657">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state x="1672" y="897" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.2560.1351@0.23.2560.1351" timestamp="1593561107657" />
     <state x="772" y="363" key="Git.Interactive.Rebase.Dialog" timestamp="1593499934797">
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="772" y="363" key="Git.Interactive.Rebase.Dialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499934797" />
-    <state x="1174" y="612" key="SettingsEditor" timestamp="1593559562144">
+    <state x="694" y="483" key="SettingsEditor" timestamp="1593559925809">
       <screen x="0" y="23" width="2560" height="1351" />
     </state>
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
-    <state x="1174" y="612" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559562144" />
-    <state x="872" y="412" key="Vcs.Push.Dialog.v2" timestamp="1593500085417">
-      <screen x="0" y="0" width="2560" height="1359" />
+    <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1593560117724">
+      <screen x="0" y="23" width="2560" height="1351" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
     </state>
@@ -172,6 +210,10 @@
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="1056" y="541" key="git4idea.rebase.GitRebaseDialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499932322" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1593564031541">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.2560.1351@0.23.2560.1351" timestamp="1593564031541" />
     <state x="1712" y="881" key="scopes" timestamp="1592784637752">
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
