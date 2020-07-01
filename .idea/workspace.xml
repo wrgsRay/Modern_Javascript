@@ -20,15 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8">
-      <change afterPath="$PROJECT_DIR$/Chapter_9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/sandbox_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/raymond.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_10 Todo/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_10 Todo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_10 Todo/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_8/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8 Ninja Quiz/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8 Ninja Quiz/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,6 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_6" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +74,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -95,6 +97,9 @@
       <workItem from="1593403131527" duration="13995000" />
       <workItem from="1593498641713" duration="1626000" />
       <workItem from="1593559601020" duration="5248000" />
+      <workItem from="1593577590924" duration="268000" />
+      <workItem from="1593588607230" duration="102000" />
+      <workItem from="1593637389132" duration="6750000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -192,10 +197,11 @@
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="772" y="363" key="Git.Interactive.Rebase.Dialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499934797" />
-    <state x="694" y="483" key="SettingsEditor" timestamp="1593559925809">
-      <screen x="0" y="23" width="2560" height="1351" />
+    <state x="694" y="481" key="SettingsEditor" timestamp="1593639508193">
+      <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
+    <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1593639508193" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1593560117724">
       <screen x="0" y="23" width="2560" height="1351" />
@@ -218,9 +224,10 @@
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="1712" y="881" key="scopes/0.0.2560.1359@0.0.2560.1359" timestamp="1592784637752" />
-    <state x="943" y="304" width="672" height="678" key="search.everywhere.popup" timestamp="1593497873949">
-      <screen x="0" y="0" width="2560" height="1359" />
+    <state x="943" y="324" width="672" height="672" key="search.everywhere.popup" timestamp="1593643959024">
+      <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="943" y="304" width="672" height="678" key="search.everywhere.popup/0.0.2560.1359@0.0.2560.1359" timestamp="1593497873949" />
+    <state x="943" y="324" width="672" height="672" key="search.everywhere.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1593643959024" />
   </component>
 </project>
