@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 8">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/raymond.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10 Todo/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10 Todo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10 Todo/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8 Ninja Quiz/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8 Ninja Quiz/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +89,7 @@
       <workItem from="1593559601020" duration="5248000" />
       <workItem from="1593577590924" duration="268000" />
       <workItem from="1593588607230" duration="102000" />
-      <workItem from="1593637389132" duration="6750000" />
+      <workItem from="1593637389132" duration="7347000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -150,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593559837322</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="end of Chapter 9">
+      <created>1593645213464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593645213464</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +183,8 @@
     <MESSAGE value="end of chapter 8" />
     <MESSAGE value="test" />
     <MESSAGE value="end of Chapter 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of Chapter 8" />
+    <MESSAGE value="end of Chapter 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of Chapter 9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1672" y="897" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593561107657">
@@ -203,10 +201,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1593639508193" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1593560117724">
-      <screen x="0" y="23" width="2560" height="1351" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1593645222240">
+      <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1593645222240" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
