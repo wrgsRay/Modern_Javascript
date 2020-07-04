@@ -3,13 +3,14 @@
 const getTodos = async () => {
   const response = await fetch("json/luigis.json")
 
-  if (response.status !== 200) {
-    throw new Error('Cannot fetch data')
+  if (response.status === 404) {
+      throw new Error('Error: URL not found')
+  } else if (response.status !== 200) {
+      throw new Error('Error fetching(catch all error)')
   }
   const data = await response.json();
   return data;
 };
-
 
 const test = getTodos()
     .then((data) => console.log(`resolved:`, data))
