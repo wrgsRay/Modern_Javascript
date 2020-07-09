@@ -20,11 +20,26 @@ class User {
     }
 }
 
+class Admin extends User{
+    constructor(username, email, title){
+        super(username, email)
+        this.title = title
+    }
+    deleteUser(user){
+        users = users.filter(u => {
+            return u.username !== user.username
+        })
+    }
+}
+
 const userOne = new User('mario', 'mario@wtf')
 const userTwo = new User('luigi', 'luigi@wtf')
+const userThree = new Admin('shaun', 'shaun@wtf', 'ninja')
 
-console.log(userOne, userTwo)
-userOne.login()
-userOne.logout()
+console.log(userThree)
 
-userOne.incScore().incScore().login().logout()
+let users = [userOne, userTwo, userThree]
+// userOne.login()
+// userOne.logout()
+
+// userOne.incScore().incScore().login().logout()
