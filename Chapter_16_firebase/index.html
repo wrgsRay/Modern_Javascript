@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>Databases</title>
+</head>
+<body>
+
+<div class="container my-5">
+    <h2>Recipes</h2>
+    <ul>
+        <li>Mushroom Pie</li>
+        <li>Veg curry</li>
+    </ul>
+    <form>
+        <label for="recipe">Add a new recipe:</label>
+        <div class="input-group">
+            <input type="text" class="form-control" id="recipe" required>
+            <div class="input-group-append">
+                <input type="submit" value="add" class="btn btn-outline-secondary">
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-firestore.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-analytics.js"></script>
+
+<script>
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyC4WytuZPrUrfUX5r6aE6neiUAToMBnmoI",
+        authDomain: "modern-javascript-7d64f.firebaseapp.com",
+        databaseURL: "https://modern-javascript-7d64f.firebaseio.com",
+        projectId: "modern-javascript-7d64f",
+        storageBucket: "modern-javascript-7d64f.appspot.com",
+        messagingSenderId: "290993295651",
+        appId: "1:290993295651:web:1ba00f7f886421448cbc96",
+        measurementId: "G-NX8P0M95SC"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+    const db = firebase.firestore()
+</script>
+<script src="sandbox.js"></script>
+</body>
+</html>
