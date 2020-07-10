@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 10">
-      <change afterPath="$PROJECT_DIR$/.idea/Modern_Javascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_16_firebase/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" afterDir="false" />
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="Setting up firebase environment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_16_firebase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_16_firebase/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593667896363</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Setting up firebase environment">
+      <created>1594359173952</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594359173952</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +212,8 @@
     <MESSAGE value="end of Chapter 8" />
     <MESSAGE value="end of Chapter 9" />
     <MESSAGE value="end of Chapter 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of Chapter 10" />
+    <MESSAGE value="Setting up firebase environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting up firebase environment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1672" y="897" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593561107657">
@@ -223,11 +230,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594358723864" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1593667900930">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594359180193">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1593667900930" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594359180193" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
