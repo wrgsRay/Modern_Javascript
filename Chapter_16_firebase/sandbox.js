@@ -16,14 +16,25 @@ const addRecipe = (recipe, id) => {
     list.innerHTML += html
 }
 
-db.collection('recipes').get().then(snapshot => {
-    // when we have the data
-    // console.log(snapshot.docs[0].data())
-    snapshot.docs.forEach(doc => {
-        addRecipe(doc.data(), doc.id)
+const deleteRecipe = id => {
+    const recipes = document.querySelectorAll('li')
+    recipes.forEach(recipe => {
+        if (recipe.getAttribute('data-id') === id) {
+            recipe.remove()
+        }
     })
-}).catch(err => {
-    console.log(err)
+}
+
+// get documents using realtime listener
+db.collection('recipes').onSnapshot(snapshot => {
+    snapshot.docChanges().forEach(change => {
+        const doc = change.doc
+        if(change.type === 'added'){
+            addRecipe(doc.data(), doc.id)
+        } else if(change.type === 'removed') {
+            deleteRecipe(doc.id)
+        }
+    })
 })
 
 // add documents

@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="adding data to the database">
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="typo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_16_firebase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_16_firebase/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +106,7 @@
       <workItem from="1593722726411" duration="4507000" />
       <workItem from="1594516419621" duration="334000" />
       <workItem from="1594516923759" duration="978000" />
-      <workItem from="1594526834884" duration="1477000" />
+      <workItem from="1594526834884" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -193,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594517842319</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Deleting document from firebase">
+      <created>1594528824542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594528824542</updated>
+    </task>
+    <task id="LOCAL-00014" summary="typo">
+      <created>1594528836059</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594528836059</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +246,9 @@
     <MESSAGE value="end of Chapter 10" />
     <MESSAGE value="Setting up firebase environment" />
     <MESSAGE value="adding data to the database" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding data to the database" />
+    <MESSAGE value="Deleting document from firebase" />
+    <MESSAGE value="typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1626" y="709" key="#sandbox.js" timestamp="1594528028378">
