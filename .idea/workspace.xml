@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="typo">
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="realtime listener">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_16_firebase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_16_firebase/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_16_firebase/sandbox.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +107,7 @@
       <workItem from="1593722726411" duration="4507000" />
       <workItem from="1594516419621" duration="334000" />
       <workItem from="1594516923759" duration="978000" />
-      <workItem from="1594526834884" duration="2170000" />
+      <workItem from="1594526834884" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -206,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594528836059</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="realtime listener">
+      <created>1594529557915</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594529557915</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +256,8 @@
     <MESSAGE value="adding data to the database" />
     <MESSAGE value="Deleting document from firebase" />
     <MESSAGE value="typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo" />
+    <MESSAGE value="realtime listener" />
+    <option name="LAST_COMMIT_MESSAGE" value="realtime listener" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1626" y="709" key="#sandbox.js" timestamp="1594528028378">
