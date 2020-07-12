@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="HTML template done">
-      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/index.html" afterDir="false" />
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="deleted vscode folder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/chat.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <workItem from="1593722726411" duration="4507000" />
       <workItem from="1594516419621" duration="334000" />
       <workItem from="1594516923759" duration="978000" />
-      <workItem from="1594526834884" duration="4313000" />
+      <workItem from="1594526834884" duration="5982000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -227,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594531112763</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="connected to database">
+      <created>1594531497919</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1594531497919</updated>
+    </task>
+    <task id="LOCAL-00019" summary="deleted vscode folder">
+      <created>1594531520544</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594531520544</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +287,9 @@
     <MESSAGE value="realtime listener" />
     <MESSAGE value="added unsubscribe button" />
     <MESSAGE value="HTML template done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTML template done" />
+    <MESSAGE value="connected to database" />
+    <MESSAGE value="deleted vscode folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted vscode folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1674" y="840" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594530263556">
@@ -297,11 +314,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594531104517" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594529874981">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594531526708">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594529874981" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594531526708" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
@@ -331,10 +348,10 @@
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="1712" y="881" key="scopes/0.0.2560.1359@0.0.2560.1359" timestamp="1592784637752" />
-    <state x="943" y="324" width="672" height="672" key="search.everywhere.popup" timestamp="1593666360540">
+    <state x="943" y="324" width="672" height="672" key="search.everywhere.popup" timestamp="1594531690390">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="943" y="304" width="672" height="678" key="search.everywhere.popup/0.0.2560.1359@0.0.2560.1359" timestamp="1593497873949" />
-    <state x="943" y="324" width="672" height="672" key="search.everywhere.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1593666360540" />
+    <state x="943" y="324" width="672" height="672" key="search.everywhere.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1594531690390" />
   </component>
 </project>
