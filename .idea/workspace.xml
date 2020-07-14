@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="wip">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/chat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/scripts/ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_17_Chatroom/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_17_Chatroom/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of chapter 17, working chatroom" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +107,7 @@
       <workItem from="1594516923759" duration="978000" />
       <workItem from="1594526834884" duration="6724000" />
       <workItem from="1594588471467" duration="201000" />
-      <workItem from="1594689865994" duration="4224000" />
+      <workItem from="1594689865994" duration="4496000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -256,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594533344538</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="end of chapter 17, working chatroom">
+      <created>1594699424808</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594699424808</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +304,8 @@
     <MESSAGE value="connected to database" />
     <MESSAGE value="deleted vscode folder" />
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="end of chapter 17, working chatroom" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of chapter 17, working chatroom" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1674" y="840" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594530263556">
@@ -333,11 +334,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594531104517" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594533355357">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594699428234">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594533355357" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594699428234" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
