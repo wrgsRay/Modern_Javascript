@@ -14,7 +14,7 @@ const getWeather = async (cityKey) => {
 // Get City info
 const getCity = async (city) => {
 
-    const baseURL = 'http://dataservice.accuweather.com/locations/v1/cities/search'
+    const baseURL = 'https://dataservice.accuweather.com/locations/v1/cities/search'
     const query = `?apikey=${key}&q=${city}`
 
     const response = await fetch(baseURL + query)
