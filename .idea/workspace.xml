@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="setup of node.js, babel and webpack">
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="End of Chapter 19">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/dist/assets/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/dist/assets/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_19/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +72,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_17_Chatroom/scripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -98,6 +92,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Chapter_17_Chatroom/scripts" />
       <recent name="C:\Users\Raymond\WebstormProjects\Modern_Javascript\Chapter_6" />
     </key>
@@ -136,7 +131,7 @@
       <workItem from="1594516923759" duration="978000" />
       <workItem from="1594526834884" duration="6724000" />
       <workItem from="1594588471467" duration="201000" />
-      <workItem from="1594689865994" duration="15805000" />
+      <workItem from="1594689865994" duration="18102000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -313,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594777823893</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="End of Chapter 19">
+      <created>1594789324166</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1594789324166</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +368,8 @@
     <MESSAGE value="updated to https" />
     <MESSAGE value="end of Chapter 18" />
     <MESSAGE value="setup of node.js, babel and webpack" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup of node.js, babel and webpack" />
+    <MESSAGE value="End of Chapter 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of Chapter 19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1384" y="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594776121339">
@@ -393,22 +396,26 @@
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="772" y="363" key="Git.Interactive.Rebase.Dialog/0.0.2560.1359@0.0.2560.1359" timestamp="1593499934797" />
-    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1594776139223">
+    <state x="1738" y="957" key="Github.CreateGistDialog" timestamp="1594789267962">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594776139223" />
-    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1594776139223">
+    <state x="1738" y="957" key="Github.CreateGistDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1594789267962" />
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom" timestamp="1594845933596">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594776139223" />
-    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1594776139223">
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594845933596" />
+    <state width="1238" height="163" key="GridCell.Tab.0.center" timestamp="1594845933596">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594776139223" />
-    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1594776139223">
+    <state width="1238" height="163" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594845933596" />
+    <state width="1238" height="163" key="GridCell.Tab.0.left" timestamp="1594845933596">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594776139223" />
+    <state width="1238" height="163" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594845933596" />
+    <state width="1238" height="163" key="GridCell.Tab.0.right" timestamp="1594845933596">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594845933596" />
     <state width="1238" height="204" key="GridCell.Tab.1.bottom" timestamp="1594776139224">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
@@ -463,11 +470,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594758791893" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594777832337">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594789328341">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594777832337" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594789328341" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
