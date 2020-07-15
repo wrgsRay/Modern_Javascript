@@ -2,5 +2,6 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="PROJECT" libraries="{bootstrap, date-fns, date_fns, firebase-analytics, firebase-app, firebase-firestore, font-awesome}" />
+    <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
