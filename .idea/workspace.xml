@@ -19,17 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of Chapter 18">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/dist/assets/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="setup of node.js, babel and webpack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/dist/assets/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/dist/assets/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_19/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_19/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +136,7 @@
       <workItem from="1594516923759" duration="978000" />
       <workItem from="1594526834884" duration="6724000" />
       <workItem from="1594588471467" duration="201000" />
-      <workItem from="1594689865994" duration="11741000" />
+      <workItem from="1594689865994" duration="15805000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -308,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594706382979</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="setup of node.js, babel and webpack">
+      <created>1594777823893</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1594777823893</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +365,8 @@
     <MESSAGE value="end of chapter 17, working chatroom" />
     <MESSAGE value="updated to https" />
     <MESSAGE value="end of Chapter 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of Chapter 18" />
+    <MESSAGE value="setup of node.js, babel and webpack" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup of node.js, babel and webpack" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1384" y="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594776121339">
@@ -457,11 +463,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594758791893" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594706386876">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594777832337">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594706386876" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594777832337" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
