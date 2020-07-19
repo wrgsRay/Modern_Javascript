@@ -19,8 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="End of Chapter 19">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="set up style loader">
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/snackbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/dropdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/snackbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/tooltip.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -88,7 +95,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -131,7 +138,8 @@
       <workItem from="1594516923759" duration="978000" />
       <workItem from="1594526834884" duration="6724000" />
       <workItem from="1594588471467" duration="201000" />
-      <workItem from="1594689865994" duration="18102000" />
+      <workItem from="1594689865994" duration="21422000" />
+      <workItem from="1595134539211" duration="5200000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -315,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594789324166</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="set up style loader">
+      <created>1594847597473</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847597473</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +384,8 @@
     <MESSAGE value="end of Chapter 18" />
     <MESSAGE value="setup of node.js, babel and webpack" />
     <MESSAGE value="End of Chapter 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of Chapter 19" />
+    <MESSAGE value="set up style loader" />
+    <option name="LAST_COMMIT_MESSAGE" value="set up style loader" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1384" y="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594776121339">
@@ -464,11 +480,15 @@
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.3.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594776139225" />
-    <state x="694" y="481" key="SettingsEditor" timestamp="1594758791893">
+    <state x="1680" y="741" key="RollbackChangesDialog" timestamp="1594849304383">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1680" y="741" key="RollbackChangesDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1594849304383" />
+    <state x="694" y="481" key="SettingsEditor" timestamp="1594848949507">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
-    <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594758791893" />
+    <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594848949507" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594789328341">
       <screen x="0" y="23" width="2560" height="1346" />
@@ -484,6 +504,10 @@
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="1517" y="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.1346@0.23.2560.1346" timestamp="1593667668603" />
+    <state x="1723" y="952" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595137602077">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1723" y="952" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1346@0.23.2560.1346" timestamp="1595137602077" />
     <state x="1608" y="827" key="git4idea.merge.GitPullDialog" timestamp="1594315046370">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
