@@ -4,7 +4,7 @@ import Tabs from './ninja-ui/tabs'
 import Snackbar from './ninja-ui/snackbar'
 
 //create a tooltip
-const tooltip = new Tooltip(document.querySelector('.tooltip'))
+const tooltip = new Tooltip(document.querySelectorAll('.tooltip'))
 tooltip.init()
 
 // create dropdown instances

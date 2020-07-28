@@ -19,16 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="set up style loader">
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/snackbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/dropdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/snackbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/tooltip.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/tooltip.js" afterDir="false" />
+    <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="end of chapter 20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_20/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_20/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_20/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_20/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/tooltip.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +74,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.53" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -114,6 +110,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Raymond\AppData\Roaming\Subversion</configuration>
   </component>
@@ -139,7 +136,8 @@
       <workItem from="1594526834884" duration="6724000" />
       <workItem from="1594588471467" duration="201000" />
       <workItem from="1594689865994" duration="21422000" />
-      <workItem from="1595134539211" duration="5200000" />
+      <workItem from="1595134539211" duration="6186000" />
+      <workItem from="1595913632983" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -330,11 +328,25 @@
       <option name="project" value="LOCAL" />
       <updated>1594847597473</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="end of chapter 20">
+      <created>1595140180509</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1595140180509</updated>
+    </task>
+    <task id="LOCAL-00029" summary="end of chapter 20">
+      <created>1595140579492</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1595140579492</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -385,7 +397,8 @@
     <MESSAGE value="setup of node.js, babel and webpack" />
     <MESSAGE value="End of Chapter 19" />
     <MESSAGE value="set up style loader" />
-    <option name="LAST_COMMIT_MESSAGE" value="set up style loader" />
+    <MESSAGE value="end of chapter 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of chapter 20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1384" y="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594776121339">
@@ -490,11 +503,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594848949507" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594789328341">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1595140583930">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1594789328341" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1595140583930" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
