@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aecfd856-18e9-4f26-948b-448d67add35e" name="Default Changelist" comment="updated tooltip.js to allow unlimited tooltips">
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/copytext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/copytext.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/raymond.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/raymond.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles/tooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_20/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_20/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_20/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_20/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -73,7 +77,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.53" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -92,7 +96,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter_20/src/ninja-ui" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter_20/src/ninja-ui/styles" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Chapter_17_Chatroom/scripts" />
       <recent name="C:\Users\Raymond\WebstormProjects\Modern_Javascript\Chapter_6" />
@@ -137,6 +145,7 @@
       <workItem from="1595134539211" duration="6186000" />
       <workItem from="1595913632983" duration="2020000" />
       <workItem from="1596064020324" duration="1338000" />
+      <workItem from="1596171178739" duration="4158000" />
     </task>
     <task id="LOCAL-00001" summary="end of chapter 6">
       <created>1592785660338</created>
@@ -348,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595915549831</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="updated tooltip.js to allow unlimited tooltips">
+      <created>1596171198977</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596171198977</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,11 +526,11 @@
     <state x="1174" y="592" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1593500268931" />
     <state x="694" y="481" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594848949507" />
     <state x="694" y="483" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1593559925809" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1595915558805">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1596171202775">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="872" y="412" key="Vcs.Push.Dialog.v2/0.0.2560.1359@0.0.2560.1359" timestamp="1593500085417" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1595915558805" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1596171202775" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.23.2560.1351@0.23.2560.1351" timestamp="1593560117724" />
     <state x="721" y="504" key="cloudConfig.PluginsDialog" timestamp="1593559586973">
       <screen x="0" y="23" width="2560" height="1351" />
